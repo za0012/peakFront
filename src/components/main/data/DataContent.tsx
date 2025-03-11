@@ -43,6 +43,7 @@ const useCountUp = (num: number, duration: number) => {
 
   return count;
 };
+//수정수정수정
 
 const DataContent = () => {
   const count = useCountUp(8979, 3000); // 예시로 8979을 5초 동안 카운트업
